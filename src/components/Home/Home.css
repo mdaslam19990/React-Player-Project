@@ -1,0 +1,14 @@
+.home-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 20px;
+}
+
+.search-input{
+    padding: 10px 8px;
+}
+
+.right-side{
+    position: sticky;
+    top: 0px;
+}

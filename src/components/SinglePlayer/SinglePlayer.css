@@ -1,0 +1,28 @@
+.cart{
+    padding: 10px;
+    box-shadow: 4px 4px 8px gray;
+    border-radius: 8px;
+    position: relative;
+}
+.cart img{
+    width: 250px;
+}
+
+.btn-cart{
+    background-color: goldenrod;
+    color: black;
+    padding: 8px 10px;
+    border: none;
+    border-radius: 4px;
+    margin: 0 2px;
+
+}
+
+.btn-group{
+        position: absolute;
+        bottom: 10px;
+}
+
+.para{
+    margin-bottom: 50px;
+}
